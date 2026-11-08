@@ -23,3 +23,7 @@ Dla `x = 4` program wyświetla `f(4) = 11`.
 ## Debugowanie
 
 Plik `.vscode/launch.json` zawiera ustawienia startu debuggera w Visual Studio Code, a `.vscode/tasks.json` opisuje kompilację przed uruchomieniem.
+
+## Repozytorium
+https://github.com/grabowski333/warp-lab-ide-function
+
